@@ -1,0 +1,23 @@
+aws
+azure
+computer vision
+data visualization
+deep learning
+docker
+gcp
+git
+hadoop
+java
+kubernetes
+linux
+mathematics
+mlops
+nlp
+python
+pytorch
+scala
+spark
+sql
+statistics
+tableau
+tensorflow
