@@ -150,8 +150,8 @@ Dashboard Visualization
 ### Clone Repository
 
 ```bash
-git clone https://github.com/shivi-20-byte/job-market-intelligence.git
-cd job-market-intelligence
+git clone https://github.com/shivi-20-byte/AI-Career-Intelligence-Platform.git
+cd AI-Career-Intelligence-Platform
 ```
 
 ---
