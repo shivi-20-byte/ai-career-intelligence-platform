@@ -247,13 +247,9 @@ streamlit run src/app.py
 
 ## Screenshots
 
-Add dashboard screenshots here after UI polishing.
-
-Example:
-
-```md
-![Dashboard](assets/screenshots/dashboard.png)
-```
+<img width="1889" height="878" alt="Screenshot 2026-05-30 022753" src="https://github.com/user-attachments/assets/d90f772e-3f96-467a-94dd-efbaea74a490" />
+<img width="1885" height="867" alt="Screenshot 2026-05-30 022906" src="https://github.com/user-attachments/assets/c1a9e203-9bfc-48fe-bab0-7344fba09ea9" />
+<img width="1849" height="810" alt="Screenshot 2026-05-30 022924" src="https://github.com/user-attachments/assets/faa4bbe7-1a17-4b74-ad20-d37dec522e9b" />
 
 ---
 
@@ -272,6 +268,6 @@ This project is intended for educational and portfolio purposes.
 
 ---
 
-#  If You Like This Project
+##  If You Like This Project
 
 Give it a star ⭐ on GitHub!
