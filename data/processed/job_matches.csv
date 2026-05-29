@@ -1,0 +1,720 @@
+job_title,company,location,country,employment_type,remote,description,apply_link,posted_date,clean_description,skills_extracted,similarity_score
+Senior Software Engineer - Machine Learning & Cloud Technologies,CACI,Linthicum Heights,US,Full-time,False,"Job Title: Senior Software Engineer - Machine Learning & Cloud Technologies
+
+Job Category: Engineering
+
+Time Type: Full time
+
+Minimum Clearance Required to Start: TS/SCI with Polygraph
+
+Employee Type: Regular
+
+Percentage of Travel Required: None
+
+Type of Travel: None
+
+* * *
+
+The Opportunity:
+
+Join our dynamic team as a Software Engineer where you will play a pivotal role in developing, maintaining, and enhancing complex and diverse software systems. Whether working independently or as part of a collaborative team, you will contribute to innovative solutions that drive our mission forward. If you are passionate about software development, machine learning, and cloud technologies than this is an ideal role for you!
+
+Responsibilities
+
+* Data Pipelines: Implement and refactor data pipelines at scale to improve efficiency and code correctness.
+
+* Tool Enhancement: Monitor and enhance existing data science tools to facilitate the transition from development to production systems.
+
+* ML Analytics: Design, implement, and enhance machine learning analytics using Python libraries such as PyTorch, NumPy, Pandas, and Scikit-learn.
+
+* Model Management: Train, test, track, and curate models using industry-standard tools and practices.
+
+* CI/CD: Integrate GitOps for continuous integration and deployment of models using Docker and Kubernetes.
+
+* Cloud Services: Utilize AWS services such as EC2, S3, and RDS for building and deploying applications.
+
+* System Integration: Integrate model and tool outputs within Computer Network Defense (CND) systems to enhance Security Management/Monitoring services.
+
+* Documentation: Document all processes and code, and provide comprehensive reports on completed tasks.
+
+* This position sits 50% of the time at our Laurel and 50% at our Linthicum Heights, MD locations.
+
+Qualifications
+
+Required:
+
+* Active TS/SCI w/ Polygraph
+
+* Experience with Python
+
+* Experience with Docker and/or Kubernetes
+
+* 14 years’ experience as a Software Engineer in programs and contracts of similar scope, type, and complexity, or a Bachelor’s degree in Computer Science or a related discipline plus 4 years of additional SWE experience.
+
+* Bachelor’s degree in Computer Science or a related discipline from an accredited college or university is required. Alternatively, 4 years of additional Software Engineering experience on projects with similar software processes may substitute for a bachelor’s degree.
+
+Desired:
+
+* Experience with AWS
+
+* Experience with Machine Learning
+
+This position is contingent on funding and may not be filled immediately. However, this position is representative of positions within CACI that are consistently available. Individuals who apply may also be considered for other positions at CACI.
+
+What You Can Expect:
+
+A culture of integrity.
+
+At CACI, we place character and innovation at the center of everything we do. As a valued team member, you’ll be part of a high-performing group dedicated to our customer’s missions and driven by a higher purpose – to ensure the safety of our nation.
+
+An environment of trust.
+
+CACI values the unique contributions that every employee brings to our company and our customers - every day. You’ll have the autonomy to take the time you need through a unique flexible time off benefit and have access to robust learning resources to make your ambitions a reality.
+
+A focus on continuous growth.
+
+Together, we will advance our nation's most critical missions, build on our lengthy track record of business success, and find opportunities to break new ground — in your career and in our legacy.
+
+Pay Range:
+
+There are a host of factors that can influence final salary including, but not limited to, geographic location, Federal Government contract labor categories and contract wage rates, relevant prior work experience, specific skills and competencies, education, and certifications. Our employees value the flexibility at CACI that allows them to balance quality work and their personal lives. We offer competitive compensation, benefits and learning and development opportunities. Our broad and competitive mix of benefits options is designed to support and protect employees and their families. At CACI, you will receive comprehensive benefits such as; healthcare, wellness, financial, retirement, family support, continuing education, and time off benefits.
+
+The proposed salary range for this position is:
+
+$131,800 - $290,000
+
+CACI is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, age, national origin, disability, status as a protected veteran, or any other protected characteristic.",https://searchcareers.caci.com/careers/job/1443149539617,,job title senior software engineer machine learning cloud technologies job category engineering time type full time minimum clearance required to start ts sci with polygraph employee type regular percentage of travel required none type of travel none the opportunity join our dynamic team as a software engineer where you will play a pivotal role in developing maintaining and enhancing complex and diverse software systems. whether working independently or as part of a collaborative team you will contribute to innovative solutions that drive our mission forward. if you are passionate about software development machine learning and cloud technologies than this is an ideal role for you responsibilities data pipelines implement and refactor data pipelines at scale to improve efficiency and code correctness. tool enhancement monitor and enhance existing data science tools to facilitate the transition from development to production systems. ml analytics design implement and enhance machine learning analytics using python libraries such as pytorch numpy pandas and scikit learn. model management train test track and curate models using industry standard tools and practices. ci cd integrate gitops for continuous integration and deployment of models using docker and kubernetes. cloud services utilize aws services such as ec2 s3 and rds for building and deploying applications. system integration integrate model and tool outputs within computer network defense cnd systems to enhance security management monitoring services. documentation document all processes and code and provide comprehensive reports on completed tasks. this position sits 50 of the time at our laurel and 50 at our linthicum heights md locations. qualifications required active ts sci w polygraph experience with python experience with docker and or kubernetes 14 years experience as a software engineer in programs and contracts of similar scope type and complexity or a bachelor s degree in computer science or a related discipline plus 4 years of additional swe experience. bachelor s degree in computer science or a related discipline from an accredited college or university is required. alternatively 4 years of additional software engineering experience on projects with similar software processes may substitute for a bachelor s degree. desired experience with aws experience with machine learning this position is contingent on funding and may not be filled immediately. however this position is representative of positions within caci that are consistently available. individuals who apply may also be considered for other positions at caci. what you can expect a culture of integrity. at caci we place character and innovation at the center of everything we do. as a valued team member you ll be part of a high performing group dedicated to our customer s missions and driven by a higher purpose to ensure the safety of our nation. an environment of trust. caci values the unique contributions that every employee brings to our company and our customers every day. you ll have the autonomy to take the time you need through a unique flexible time off benefit and have access to robust learning resources to make your ambitions a reality. a focus on continuous growth. together we will advance our nation s most critical missions build on our lengthy track record of business success and find opportunities to break new ground in your career and in our legacy. pay range there are a host of factors that can influence final salary including but not limited to geographic location federal government contract labor categories and contract wage rates relevant prior work experience specific skills and competencies education and certifications. our employees value the flexibility at caci that allows them to balance quality work and their personal lives. we offer competitive compensation benefits and learning and development opportunities. our broad and competitive mix of benefits options is designed to support and protect employees and their families. at caci you will receive comprehensive benefits such as healthcare wellness financial retirement family support continuing education and time off benefits. the proposed salary range for this position is 131 800 290 000 caci is an equal opportunity employer. all qualified applicants will receive consideration for employment without regard to race color religion sex pregnancy sexual orientation age national origin disability status as a protected veteran or any other protected characteristic.,"['numpy', 'python', 'machine learning', 'kubernetes', 'pytorch', 'docker', 'r', 'aws', 'pandas']",0.6312259
+Cloud Engineer (AWS),"Contact Government Services, LLC",Washington,US,Full-time,False,"Cloud Engineer (AWS)
+
+Employment Type: Full-Time, Experienced
+
+Department: Information technology
+
+We are seeking a Cloud Engineer (AWS) who will be responsible for supporting the development of all required documentation necessary to support the engineering, security, and operational processes for a large federal agency. The ideal candidate will possess a strong grasp of cloud computing SaaS, PaaS, and IaaS fundamentals.
+
+CGS brings motivated, highly skilled, and creative people together to solve the government’s most dynamic problems with cutting-edge technology. To carry out our mission, we are seeking candidates who are excited to contribute to government innovation, appreciate collaboration, and can anticipate the needs of others. Here at CGS, we offer an environment in which our employees feel supported, and we encourage professional growth through various learning opportunities.
+
+Skills and attributes for success:
+
+• Design solutions that ensure maximum flexibility and scalability, while meeting all required security controls.
+
+• Support the development of all required documentation necessary to support the engineering, security, and operational processes.
+
+• Perform business and technical alternative analysis for any/all aspects of the solution, aiding the customer is making decisions along the way.
+
+• Facilitate the transition of the solution to operations, initially and ongoing ensuring at all times the system is operating within the anticipated operating boundaries.
+
+• Strong grasp of cloud computing SaaS, PaaS and IaaS fundamentals with experience designing and implementing solutions.
+
+Qualifications:
+
+• Bachelor's Degree in Computer Science, Engineering, or other Engineering or Technical discipline or equivalent relevant experience
+
+• At least four (4-7) years of professional IT experience performing duties in support of federal government agencies.
+
+• 4+ years design, implementation and/or support of highly distributed applications demonstrating strong architectural skills to ensure availability, reliability, etc.
+
+• Hands-on experience with AWS (Required) or other cloud services reinforced with architectural design experience
+
+• Experience designing and delivering large-scale solutions, most of which that have advanced to the production state.
+
+• Strong grasp of cloud computing SaaS, PaaS and IaaS fundamentals with experience designing and implementing solutions. Develop cloud base solution designs and implementation plans based on customer needs
+
+• Familiar with lift-and-shift migrations and migration methodologies for cloud migration
+
+• Experience in Cloud computing, Networking, Storage, and Identity Management AWS Certification or Cloud Architect Certification (or desire to obtain certification)
+
+Ideally, you will also have:
+
+• Hands-on experience with AWS (required) or other cloud services reinforced with architectural design experience designing and delivering large-scale solutions, most of which that have advanced to the production state.
+
+• Develop cloud base solution designs and implementation plans based on customer needs
+
+• Familiar with lift-and-shift migrations and migration methodologies for cloud migration
+
+• Experience in Cloud Compute, Networking, Storage, and Identity Management AWS Certification or Cloud Architect Certification (or desire to obtain certification)
+
+Our Commitment:
+
+Contact Government Services (CGS) strives to simplify and enhance government bureaucracy through the optimization of human, technical, and financial resources. We combine cutting-edge technology with world-class personnel to deliver customized solutions that fit our client’s specific needs. We are committed to solving the most challenging and dynamic problems.
+
+For the past seven years, we’ve been growing our government-contracting portfolio, and along the way, we’ve created valuable partnerships by demonstrating a commitment to honesty, professionalism, and quality work.
+
+Here at CGS we value honesty through hard work and self-awareness, professionalism in all we do, and to deliver the best quality to our consumers mending those relations for years to come.
+
+We care about our employees. Therefore, we offer a comprehensive benefits package.
+
+• Health, Dental, and Vision
+
+• Life Insurance
+
+• 401k
+
+• Flexible Spending Account (Health, Dependent Care, and Commuter)
+
+• Paid Time Off and Observance of State/Federal Holidays
+
+Contact Government Services, LLC is an Equal Opportunity Employer. Applicants will be considered without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+Join our team and become part of government innovation!
+
+Explore additional job opportunities with CGS on our Job Board:
+
+https://cgsfederal.com/join-our-team/
+
+For more information about CGS please visit: https://www.cgsfederal.com or contact:
+
+Email: info@cgsfederal.com
+
+#CJ
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.",https://www.indeed.com/viewjob?jk=f0c0060e38b5effd,,cloud engineer aws employment type full time experienced department information technology we are seeking a cloud engineer aws who will be responsible for supporting the development of all required documentation necessary to support the engineering security and operational processes for a large federal agency. the ideal candidate will possess a strong grasp of cloud computing saas paas and iaas fundamentals. cgs brings motivated highly skilled and creative people together to solve the government s most dynamic problems with cutting edge technology. to carry out our mission we are seeking candidates who are excited to contribute to government innovation appreciate collaboration and can anticipate the needs of others. here at cgs we offer an environment in which our employees feel supported and we encourage professional growth through various learning opportunities. skills and attributes for success design solutions that ensure maximum flexibility and scalability while meeting all required security controls. support the development of all required documentation necessary to support the engineering security and operational processes. perform business and technical alternative analysis for any all aspects of the solution aiding the customer is making decisions along the way. facilitate the transition of the solution to operations initially and ongoing ensuring at all times the system is operating within the anticipated operating boundaries. strong grasp of cloud computing saas paas and iaas fundamentals with experience designing and implementing solutions. qualifications bachelor s degree in computer science engineering or other engineering or technical discipline or equivalent relevant experience at least four 4 7 years of professional it experience performing duties in support of federal government agencies. 4+ years design implementation and or support of highly distributed applications demonstrating strong architectural skills to ensure availability reliability etc. hands on experience with aws required or other cloud services reinforced with architectural design experience experience designing and delivering large scale solutions most of which that have advanced to the production state. strong grasp of cloud computing saas paas and iaas fundamentals with experience designing and implementing solutions. develop cloud base solution designs and implementation plans based on customer needs familiar with lift and shift migrations and migration methodologies for cloud migration experience in cloud computing networking storage and identity management aws certification or cloud architect certification or desire to obtain certification ideally you will also have hands on experience with aws required or other cloud services reinforced with architectural design experience designing and delivering large scale solutions most of which that have advanced to the production state. develop cloud base solution designs and implementation plans based on customer needs familiar with lift and shift migrations and migration methodologies for cloud migration experience in cloud compute networking storage and identity management aws certification or cloud architect certification or desire to obtain certification our commitment contact government services cgs strives to simplify and enhance government bureaucracy through the optimization of human technical and financial resources. we combine cutting edge technology with world class personnel to deliver customized solutions that fit our client s specific needs. we are committed to solving the most challenging and dynamic problems. for the past seven years we ve been growing our government contracting portfolio and along the way we ve created valuable partnerships by demonstrating a commitment to honesty professionalism and quality work. here at cgs we value honesty through hard work and self awareness professionalism in all we do and to deliver the best quality to our consumers mending those relations for years to come. we care about our employees. therefore we offer a comprehensive benefits package. health dental and vision life insurance 401k flexible spending account health dependent care and commuter paid time off and observance of state federal holidays contact government services llc is an equal opportunity employer. applicants will be considered without regard to their race color religion sex sexual orientation gender identity national origin disability or status as a protected veteran. join our team and become part of government innovation explore additional job opportunities with cgs on our job board https cgsfederal.com join our team for more information about cgs please visit https www.cgsfederal.com or contact email info cgsfederal.com #cj we may use artificial intelligence ai tools to support parts of the hiring process such as reviewing applications analyzing resumes or assessing responses. these tools assist our recruitment team but do not replace human judgment. final hiring decisions are ultimately made by humans. if you would like more information about how your data is processed please contact us.,"['scala', 'r', 'aws']",0.60345554
+Cloud Engineer,Fairfax County Public Schools,Falls Church,US,Full-time,False,"Performs all technological activities associated with cloud computing, including implementation, installation, troubleshooting, reporting, and oversight for cloud infrastructure and related cloud services; assists with the management, support, and oversight of the virtual servers and cloud networks in FCPS cloud environments and business continuity processes; implements configurations that meet program security requirements and customer needs; and provides ongoing support of cloud storage and backup infrastructure.
+
+Location:
+Wilton Woods Center
+
+Cloud Engineer
+
+Percent Full-Time:
+Full Time
+
+Contract Length:
+260-Day Contract
+
+Salary Grade
+[Salary Information] :
+Unified Scale-Schedule B/Grade 008-FEU-OP
+
+Pay Frequency:
+Monthly
+
+Open
+Until
+Filled:
+Yes
+
+Office:
+Info Tech Operations
+
+Re-Adv.
+Position:
+No
+
+Qualifications:
+Required
+• Any combination of education and experience equivalent to a bachelor's degree in information technology, computer science, or a related field.
+• Four (4) years of experience in developing, implementing and maintaining cloud data center infrastructure environments, computer operating software systems, database servers, or infrastructure development.
+• Advanced degree(s) beyond the minimum degree requirement in a relevant field may be considered for some experience.
+• Knowledge of the principles and practices of server and systems engineering, Infrastructure-as-a-Service (IaaS), Software-as-a-Service (SaaS) solutions, cloud-based infrastructure, and data center infrastructure management.
+• Knowledge of DevOps in modern cloud environments and skilled in using DevOps tools for source control, configuration management, automation, containerization, and orchestration.
+• Knowledge of emerging technologies for enterprise design and integration, and system design and implementation practices.
+• Knowledge of cloud migration techniques and workflows (on-premise to cloud platforms).
+• Knowledge of state and federal laws and regulations including HIPAA, CIPA, and FERPA.
+• Knowledge of and skilled in Amazon Web Services (AWS), G Suite for Education, Microsoft 365, and data center and virtualization technologies.
+• Skill in DevOps tools such as Git, Ansible, Docker, Kubernetes.
+• Skill in migrating infrastructure and workloads from on-premise datacenter to public cloud environments and services, such as AWS, Azure, and Google.
+• Skill in large scale data center migrations.
+• Ability to ensure that Windows and Linux systems meet operating and functionality requirements.
+• Ability to perform scripting administration tasks and reporting using relevant coding and scripting technology and developing scripts for automating processes (such as GAM scripts, Powershell, Python, JSON, and Javascript).
+• Ability to conduct evaluative studies, solve complex problems, and design and install solutions.
+• Ability to work as part of a team to ensure a program meets its goals.
+• Ability to communicate effectively, both orally and in writing.
+Preferred
+• Industry cloud certifications from AWS, Microsoft, or Google.
+
+Posting Title:
+Cloud Engineer
+
+Job Type:
+Information Technology
+
+Salary Range:
+$100,039 - $173,639
+
+Major Duties/Essential Functions:
+• Assists with the migration and deployment of new cloud and data center infrastructure solutions, operating systems, enterprise applications, utilities, or projects to upgrade existing software.
+• Ensures that new systems meet enterprise specifications, function properly, including the installation of required software, operating system, and security updates, and are installed with minimum user disruption.
+• Administers server and systems technologies, including needed configurations required to maintain proper working order of the domain, infrastructure, users and group settings, security, and access permissions and privileges.
+• Manages, maintains, monitors, and secures all servers including installations, upgrades, patches, and documentation.
+• Evaluates and analyzes scaled systems, performance, issues, and metrics in order to provide data-driven recommendations for service improvements.
+• Compiles and maintains enterprise standards, procedures, and documentation and develops procedures to incorporate new or changed software and procedures following change management processes when initiating system changes.
+• Collaborates with IT architects, software developers, data security, engineers, and other support partners with regard to troubleshooting and correcting technical issues and security incidents.
+• Provides support and education on cloud infrastructure to other IT partners.
+• Conducts performance studies to monitor efficiency of internal systems and cloud infrastructure.
+• Participates in cloud system migration feasibility studies.
+• Provides recommendations and advice related to budget development and forecasting.
+• Oversees the work of vendors and/or contractors.
+• Performs related duties as required or assigned.
+
+Work Environment/Physical Requirements:
+This job operates in a professional office environment and has a noise level of mostly low to moderate. This role routinely uses standard office equipment such as computers, phones, photocopiers, filing cabinets, and fax machines.",https://www.topschooljobs.org/job/2434044/cloud-engineer/,2026-05-06T00:00:00.000Z,performs all technological activities associated with cloud computing including implementation installation troubleshooting reporting and oversight for cloud infrastructure and related cloud services assists with the management support and oversight of the virtual servers and cloud networks in fcps cloud environments and business continuity processes implements configurations that meet program security requirements and customer needs and provides ongoing support of cloud storage and backup infrastructure. location wilton woods center cloud engineer percent full time full time contract length 260 day contract salary grade salary information unified scale schedule b grade 008 feu op pay frequency monthly open until filled yes office info tech operations re adv. position no qualifications required any combination of education and experience equivalent to a bachelor s degree in information technology computer science or a related field. four 4 years of experience in developing implementing and maintaining cloud data center infrastructure environments computer operating software systems database servers or infrastructure development. advanced degree s beyond the minimum degree requirement in a relevant field may be considered for some experience. knowledge of the principles and practices of server and systems engineering infrastructure as a service iaas software as a service saas solutions cloud based infrastructure and data center infrastructure management. knowledge of devops in modern cloud environments and skilled in using devops tools for source control configuration management automation containerization and orchestration. knowledge of emerging technologies for enterprise design and integration and system design and implementation practices. knowledge of cloud migration techniques and workflows on premise to cloud platforms . knowledge of state and federal laws and regulations including hipaa cipa and ferpa. knowledge of and skilled in amazon web services aws g suite for education microsoft 365 and data center and virtualization technologies. skill in devops tools such as git ansible docker kubernetes. skill in migrating infrastructure and workloads from on premise datacenter to public cloud environments and services such as aws azure and google. skill in large scale data center migrations. ability to ensure that windows and linux systems meet operating and functionality requirements. ability to perform scripting administration tasks and reporting using relevant coding and scripting technology and developing scripts for automating processes such as gam scripts powershell python json and javascript . ability to conduct evaluative studies solve complex problems and design and install solutions. ability to work as part of a team to ensure a program meets its goals. ability to communicate effectively both orally and in writing. preferred industry cloud certifications from aws microsoft or google. posting title cloud engineer job type information technology salary range 100 039 173 639 major duties essential functions assists with the migration and deployment of new cloud and data center infrastructure solutions operating systems enterprise applications utilities or projects to upgrade existing software. ensures that new systems meet enterprise specifications function properly including the installation of required software operating system and security updates and are installed with minimum user disruption. administers server and systems technologies including needed configurations required to maintain proper working order of the domain infrastructure users and group settings security and access permissions and privileges. manages maintains monitors and secures all servers including installations upgrades patches and documentation. evaluates and analyzes scaled systems performance issues and metrics in order to provide data driven recommendations for service improvements. compiles and maintains enterprise standards procedures and documentation and develops procedures to incorporate new or changed software and procedures following change management processes when initiating system changes. collaborates with it architects software developers data security engineers and other support partners with regard to troubleshooting and correcting technical issues and security incidents. provides support and education on cloud infrastructure to other it partners. conducts performance studies to monitor efficiency of internal systems and cloud infrastructure. participates in cloud system migration feasibility studies. provides recommendations and advice related to budget development and forecasting. oversees the work of vendors and or contractors. performs related duties as required or assigned. work environment physical requirements this job operates in a professional office environment and has a noise level of mostly low to moderate. this role routinely uses standard office equipment such as computers phones photocopiers filing cabinets and fax machines.,"['javascript', 'python', 'kubernetes', 'java', 'docker', 'aws', 'r', 'azure']",0.56506944
+Software Engineer Subject Matter Expert / AI & Machine Learning Engineer,Staffed4U,Chantilly,US,Full-time,False,"Software Engineer Subject Matter Expert / AI & Machine Learning Engineer
+Location: Chantilly, Virginia
+Security Clearance: Active TS/SCI with Polygraph Required
+Job Type: Full-Time
+
+Position Overview
+
+The selected candidate will serve as a senior technical authority supporting the design, development, integration, and maintenance of advanced software, artificial intelligence, and machine learning solutions within a secure mission environment. This role requires extensive expertise in software engineering, systems analysis, cloud technologies, and AI/ML methodologies supporting complex operational and technical requirements.
+
+Minimum Qualifications
+
+• Bachelor’s degree and a minimum of sixteen (16) years of relevant experience; OR
+
+• Twenty-one (21) years of related professional experience in lieu of a degree
+
+• Minimum of sixteen (16) years of software engineering, artificial intelligence, or machine learning experience
+
+• Active Top Secret/Sensitive Compartmented Information (TS/SCI) clearance with Polygraph
+
+• Demonstrated experience leading complex technical and operational initiatives
+
+Duties and Responsibilities
+
+• Design, develop, test, and maintain enterprise software and AI/ML systems
+
+• Analyze software and system requirements to develop technical solutions supporting operational objectives
+
+• Evaluate and improve software performance, scalability, reliability, and maintainability
+
+• Develop system specifications, technical documentation, and implementation plans
+
+• Coordinate with engineers, analysts, developers, and stakeholders to support system integration and deployment
+
+• Modify and enhance existing software applications to improve functionality and resolve technical issues
+
+• Analyze interfaces between hardware and software systems and define performance requirements
+
+• Support installation, configuration, testing, and maintenance of software systems and applications
+
+• Develop and maintain applications within cloud-based environments, including modernization of legacy systems
+
+• Estimate software development schedules, technical risks, and resource requirements
+
+• Apply analytical, mathematical, and engineering methods to evaluate system performance and software outcomes
+
+• Lead AI and machine learning initiatives including model development, data analysis, automation, and predictive analytics
+
+• Provide technical leadership, mentoring, and guidance to engineering and development teams
+
+• Support troubleshooting, root cause analysis, and resolution of highly complex technical issues
+
+Required Knowledge, Skills, and Abilities
+
+• Expert knowledge of software engineering principles, artificial intelligence, machine learning, programming, and systems analysis
+
+• Experience developing applications in cloud and enterprise environments
+
+• Ability to analyze user requirements and translate them into scalable technical solutions
+
+• Experience with software testing, debugging, and performance optimization
+
+• Strong analytical, organizational, and problem-solving skills
+
+• Excellent written and verbal communication skills
+
+• Ability to lead technical teams and collaborate across multidisciplinary environments
+
+Preferred Technical Experience
+
+Experience or familiarity with one or more of the following technologies or tools is desirable:
+
+• Programming languages and software development frameworks
+
+• Web application development technologies including HTML, JavaScript, Apache Struts, and Ruby on Rails
+
+• Software testing, usability testing, and defect tracking tools including Mercury Interactive LoadRunner
+
+• Source code editors and software development environments
+
+• Desktop computing systems, high-end servers, and application server technologies
+
+About the Organization
+
+A dynamic, quality-focused small business providing innovative and mission-oriented solutions to government and commercial customers. The organization supports defense, intelligence, civilian, and commercial sectors through a team of experienced professionals and subject matter experts.
+
+Benefits Summary
+
+Our client offers a comprehensive benefits package to support employee well-being, financial security, professional growth, and work-life balance. Benefits may include:
+
+• Flexible Time Off
+
+Employees are encouraged to manage their time responsibly while meeting work requirements and maintaining productivity.
+
+• Hybrid Work Environment
+
+Flexible work arrangements may include a combination of remote and onsite work opportunities based on operational needs.
+
+• Retirement Savings Plan
+
+Retirement benefits may include participation in a 401(k) savings program with employer contributions.
+
+• Paid Parental Leave
+
+Paid leave is available to support employees welcoming a new child through birth, adoption, or foster placement.
+
+• Comprehensive Health Coverage
+
+Medical, dental, vision, and other healthcare benefit options are available to support individual and family healthcare needs.
+
+• Professional Development and Continuing Education
+
+Opportunities for continued learning, certifications, and job-related training are available to support career growth and advancement.
+
+We are an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, disability, veteran status, or any other protected status under applicable law.",https://www.indeed.com/viewjob?jk=b00365d3b1b46cf7,2026-05-26T00:00:00.000Z,software engineer subject matter expert ai machine learning engineer location chantilly virginia security clearance active ts sci with polygraph required job type full time position overview the selected candidate will serve as a senior technical authority supporting the design development integration and maintenance of advanced software artificial intelligence and machine learning solutions within a secure mission environment. this role requires extensive expertise in software engineering systems analysis cloud technologies and ai ml methodologies supporting complex operational and technical requirements. minimum qualifications bachelor s degree and a minimum of sixteen 16 years of relevant experience or twenty one 21 years of related professional experience in lieu of a degree minimum of sixteen 16 years of software engineering artificial intelligence or machine learning experience active top secret sensitive compartmented information ts sci clearance with polygraph demonstrated experience leading complex technical and operational initiatives duties and responsibilities design develop test and maintain enterprise software and ai ml systems analyze software and system requirements to develop technical solutions supporting operational objectives evaluate and improve software performance scalability reliability and maintainability develop system specifications technical documentation and implementation plans coordinate with engineers analysts developers and stakeholders to support system integration and deployment modify and enhance existing software applications to improve functionality and resolve technical issues analyze interfaces between hardware and software systems and define performance requirements support installation configuration testing and maintenance of software systems and applications develop and maintain applications within cloud based environments including modernization of legacy systems estimate software development schedules technical risks and resource requirements apply analytical mathematical and engineering methods to evaluate system performance and software outcomes lead ai and machine learning initiatives including model development data analysis automation and predictive analytics provide technical leadership mentoring and guidance to engineering and development teams support troubleshooting root cause analysis and resolution of highly complex technical issues required knowledge skills and abilities expert knowledge of software engineering principles artificial intelligence machine learning programming and systems analysis experience developing applications in cloud and enterprise environments ability to analyze user requirements and translate them into scalable technical solutions experience with software testing debugging and performance optimization strong analytical organizational and problem solving skills excellent written and verbal communication skills ability to lead technical teams and collaborate across multidisciplinary environments preferred technical experience experience or familiarity with one or more of the following technologies or tools is desirable programming languages and software development frameworks web application development technologies including html javascript apache struts and ruby on rails software testing usability testing and defect tracking tools including mercury interactive loadrunner source code editors and software development environments desktop computing systems high end servers and application server technologies about the organization a dynamic quality focused small business providing innovative and mission oriented solutions to government and commercial customers. the organization supports defense intelligence civilian and commercial sectors through a team of experienced professionals and subject matter experts. benefits summary our client offers a comprehensive benefits package to support employee well being financial security professional growth and work life balance. benefits may include flexible time off employees are encouraged to manage their time responsibly while meeting work requirements and maintaining productivity. hybrid work environment flexible work arrangements may include a combination of remote and onsite work opportunities based on operational needs. retirement savings plan retirement benefits may include participation in a 401 k savings program with employer contributions. paid parental leave paid leave is available to support employees welcoming a new child through birth adoption or foster placement. comprehensive health coverage medical dental vision and other healthcare benefit options are available to support individual and family healthcare needs. professional development and continuing education opportunities for continued learning certifications and job related training are available to support career growth and advancement. we are an equal opportunity employer. we celebrate diversity and are committed to creating an inclusive environment for all employees. all qualified applicants will receive consideration for employment without regard to race color religion sex sexual orientation gender identity or expression national origin age disability veteran status or any other protected status under applicable law.,"['javascript', 'machine learning', 'java', 'leadership', 'excel', 'communication', 'problem solving', 'scala', 'r']",0.5626781
+Senior Web Developer,XLA,Washington,US,Full-time,False,"XLA is looking for a Senior Web Developer to support a federal agency in Arlington, VA. This position requires the candidate to be eligible to obtain a U.S. secret security clearance and is onsite position Monday-Friday.
+
+Candidates must be local to the Arlington, VA area to be considered.
+
+Salary: $140,000
+
+Required Skills
+
+• .NET (web frameworks, libraries, unit testing frames, and design best practices)
+• Vue3 (or similar front end framework like React or Angular - Vue is preferred)
+• JavaScript
+• HTML
+• CSS/CSS Framework like Bootstrap
+• SQL/data modeling and experience working with relational database for data persistence.
+• Familiarity with Git and common code branching strategies
+• Involved in all phases of the application development process from requirements, design, implementation, operations, and maintenance
+• Responsible for full stack web application development using Microsoft .NET technology and Oracle RDBM
+• Strong skills in frontend frameworks like Vue, React, or Angular (preferably Vue) and have strong knowledge of .NET web application development frameworks and libraries. This includes front end Single Page Application (SPA) development, well-structured middle tier API/Services, and data model design/implementation.
+
+Preferred Skills
+
+• Experience working with accounting systems like CGI Momentum software or other COTS product.
+• Experience development applications to Financial Management controls/business processes.
+• Experience using AWS Kiro for AI assisted code generation.
+• AWS certifications (developer, architect, AI, etc).
+• Experience with Oracle PLSQL or Oracle DBA experience
+
+EEO Statement
+
+XLA is committed to the full inclusion of all qualified individuals and is an equal opportunity employer committed to supporting equality and integrity in the workplace, professional development and education, and an entrepreneurial atmosphere.
+
+We encourage qualified individuals with disabilities to apply. If a reasonable accommodation is needed to participate in the job application or interview process or to perform essential job functions, please contact our HR team by phone at 703-584-8317 or via email at humanresources@xla.com. For persons who are deaf, hard of hearing, deafblind, or deaf-disabled, XLA will provide an American Sign Language (ASL) interpreter where needed as a reasonable accommodation for the hiring processes.
+
+We are proud to be an EEO/VETERAN EMPLOYER.
+
+All qualified applicants will receive consideration for employment without regard to their protected veteran or disabled status and will not be discriminated against for self-identifying with either category",https://www.linkedin.com/jobs/view/senior-web-developer-at-xla-4420629134,2026-05-28T21:00:00.000Z,xla is looking for a senior web developer to support a federal agency in arlington va. this position requires the candidate to be eligible to obtain a u.s. secret security clearance and is onsite position monday friday. candidates must be local to the arlington va area to be considered. salary 140 000 required skills .net web frameworks libraries unit testing frames and design best practices vue3 or similar front end framework like react or angular vue is preferred javascript html css css framework like bootstrap sql data modeling and experience working with relational database for data persistence. familiarity with git and common code branching strategies involved in all phases of the application development process from requirements design implementation operations and maintenance responsible for full stack web application development using microsoft .net technology and oracle rdbm strong skills in frontend frameworks like vue react or angular preferably vue and have strong knowledge of .net web application development frameworks and libraries. this includes front end single page application spa development well structured middle tier api services and data model design implementation. preferred skills experience working with accounting systems like cgi momentum software or other cots product. experience development applications to financial management controls business processes. experience using aws kiro for ai assisted code generation. aws certifications developer architect ai etc . experience with oracle plsql or oracle dba experience eeo statement xla is committed to the full inclusion of all qualified individuals and is an equal opportunity employer committed to supporting equality and integrity in the workplace professional development and education and an entrepreneurial atmosphere. we encourage qualified individuals with disabilities to apply. if a reasonable accommodation is needed to participate in the job application or interview process or to perform essential job functions please contact our hr team by phone at 703 584 8317 or via email at humanresources xla.com. for persons who are deaf hard of hearing deafblind or deaf disabled xla will provide an american sign language asl interpreter where needed as a reasonable accommodation for the hiring processes. we are proud to be an eeo veteran employer. all qualified applicants will receive consideration for employment without regard to their protected veteran or disabled status and will not be discriminated against for self identifying with either category,"['javascript', 'sql', 'react', 'java', 'aws', 'r']",0.5399138
+"Senior Business Analyst, Relay Trust",Amazon,Washington,US,Full-time,False,"The Relay Trust organization in Middle Mile Transportation Technology (MMPT) is constantly innovating new ways of building distributed systems running the latest in machine learning algorithms to deliver the next generation of fraud prevention solutions for our Customers. We hold high standards for our solutions and the services we deliver: our systems are highly secure, highly reliable, highly available, all while functioning at massive scale and delivering industry leading precision; our employees are intelligent, passionate about protecting Customers, and fun to work with.
+
+Amazon is seeking an exemplary (Senior) Business Analyst with broad technical skills to develop in-depth business understanding, perform deep-dives, develop data visualizations and build automation solutions that drive business decision making and process improvement. The ideal candidate will draw upon advanced analytical, problem solving skills, and passion for delivering business insights and analytics. We look for candidates who are excellent communicators, self-motivated, flexible, hardworking, and who like to have fun.
+
+The complexity of research and skills for a (Senior) Business Analyst is well beyond basic data entry and extraction. It involves design and development of automated data pipelines, sophisticated analytical modeling and intuitive data visualization. This role will directly be responsible for maintaining front end code using Python, SQL and/or other similar coding languages.
+
+Proficiency in the aforementioned languages is not required, but an ability to be a quick learner and gain proficiency is required for a successfully candidate. This role will have high level visibility due to the nature of the toolsets being maintained, built, and the network impact of analysis conducted. This role has great exposure to a broad scope that can really help shape the future of operational fulfillment and promotes career progression.
+
+Key job responsibilities
+
+Use quantitative analysis and the presentation of data to see beyond the numbers and understand what drives our business
+
+Work with large and complex data sets to solve a wide array of challenging problems using different data management tools and analytical approaches
+
+Partner with Product, Program, Engineering, and cross-functional teams to understand data requirements and design scalable and user-friendly BI solutions influencing product and program strategy
+
+Identify and measure success of product and program efforts through continuous analysis, goal setting, and monitoring of key metrics to understand trends
+
+Build and maintain self-serve analytics: role-based dashboards, drill-downs, alerts, and definitions that make performance obvious at a glance
+
+Identify key performance drivers, quantify their impact on critical metrics, and deliver actionable recommendations
+
+• Mentor junior analysts in analytical techniques and problem-solving methodologies
+
+BASIC QUALIFICATIONS
+
+• Bachelor's degree
+• 5+ years of writing SQL queries and creating business intelligence reports using Tableau, Power BI experience
+• 5+ years of Excel or Tableau (data manipulation, macros, charts and pivot tables) experience
+• Experience defining requirements and using data and metrics to draw business insights
+• Experience making business recommendations and influencing stakeholders
+
+PREFERRED QUALIFICATIONS
+
+• Master's degree in finance, accounting, business, economics, engineering , analytics, mathematics, statistics or a related technical or quantitative field
+• Fluency in a scripting language such as Python or R
+• Strong background in statistics methodology, applications to business problems, and/or big data
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit for more information. If the country/region you're applying in isn't listed, please contact your Recruiting Partner.
+
+The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location.
+
+Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbu",https://bebee.com/us/jobs/senior-business-analyst-relay-trust-amazon-washington-dc--jooble-1498152285495062787,2026-05-25T00:00:00.000Z,the relay trust organization in middle mile transportation technology mmpt is constantly innovating new ways of building distributed systems running the latest in machine learning algorithms to deliver the next generation of fraud prevention solutions for our customers. we hold high standards for our solutions and the services we deliver our systems are highly secure highly reliable highly available all while functioning at massive scale and delivering industry leading precision our employees are intelligent passionate about protecting customers and fun to work with. amazon is seeking an exemplary senior business analyst with broad technical skills to develop in depth business understanding perform deep dives develop data visualizations and build automation solutions that drive business decision making and process improvement. the ideal candidate will draw upon advanced analytical problem solving skills and passion for delivering business insights and analytics. we look for candidates who are excellent communicators self motivated flexible hardworking and who like to have fun. the complexity of research and skills for a senior business analyst is well beyond basic data entry and extraction. it involves design and development of automated data pipelines sophisticated analytical modeling and intuitive data visualization. this role will directly be responsible for maintaining front end code using python sql and or other similar coding languages. proficiency in the aforementioned languages is not required but an ability to be a quick learner and gain proficiency is required for a successfully candidate. this role will have high level visibility due to the nature of the toolsets being maintained built and the network impact of analysis conducted. this role has great exposure to a broad scope that can really help shape the future of operational fulfillment and promotes career progression. key job responsibilities use quantitative analysis and the presentation of data to see beyond the numbers and understand what drives our business work with large and complex data sets to solve a wide array of challenging problems using different data management tools and analytical approaches partner with product program engineering and cross functional teams to understand data requirements and design scalable and user friendly bi solutions influencing product and program strategy identify and measure success of product and program efforts through continuous analysis goal setting and monitoring of key metrics to understand trends build and maintain self serve analytics role based dashboards drill downs alerts and definitions that make performance obvious at a glance identify key performance drivers quantify their impact on critical metrics and deliver actionable recommendations mentor junior analysts in analytical techniques and problem solving methodologies basic qualifications bachelor s degree 5+ years of writing sql queries and creating business intelligence reports using tableau power bi experience 5+ years of excel or tableau data manipulation macros charts and pivot tables experience experience defining requirements and using data and metrics to draw business insights experience making business recommendations and influencing stakeholders preferred qualifications master s degree in finance accounting business economics engineering analytics mathematics statistics or a related technical or quantitative field fluency in a scripting language such as python or r strong background in statistics methodology applications to business problems and or big data amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status disability or other legally protected status. our inclusive culture empowers amazonians to deliver the best results for our customers. if you have a disability and need a workplace accommodation or adjustment during the application and hiring process including support for the interview or onboarding process please visit for more information. if the country region you re applying in isn t listed please contact your recruiting partner. the base salary range for this position is listed below. your amazon package will include sign on payments and restricted stock units rsus . final compensation will be determined based on factors including experience qualifications and location. amazon also offers comprehensive benefits including health insurance medical dental vision prescription basic life ad d insurance and option for supplemental life plans eap mental health support medical advice line flexible spending accounts adoption and surrogacy reimbu,"['python', 'sql', 'machine learning', 'power bi', 'tableau', 'excel', 'problem solving', 'scala', 'r']",0.5373596
+Software Engineer / Tech Lead — Cloud-Native Modernization,Stackular,,,Full-time,True,"Job Title: Software Engineer / Tech Lead — Cloud-Native Modernization
+
+Location: Bethesda, MD (Hybrid / Mostly On-Site)
+
+Engagement Type: Full - Time
+
+Clearance: Able to obtain Public Trust clearance upon hire
+
+About us: At Stackular, we are more than just a team – we are a product development community driven by a shared vision. Our values shape who we are, what we do, and how we interact with our peers and our customers. We're not just seeking any regular engineer; we want individuals who identify with our core values and are passionate about software development.
+
+Role Overview
+
+Stackular is seeking a hands-on Software Engineer / Tech Lead to provide cross-stack technical leadership on a multi-year cloud-native modernization initiative supporting a federal research client within the National Institutes of Health (NIH).
+
+This role operates as the senior engineering voice on a cross-functional team that spans application development, cloud infrastructure, data integration, automation, and security. The portfolio under modernization includes roughly twenty legacy applications transitioning from .NET, Oracle, and SAP BusinessObjects on VM-based hosting to an AWS-managed, microservices-based platform delivered through a federated GraphQL API layer and a React/TypeScript frontend.
+
+This position is ideal for engineers who can both write production-grade code and exercise sound technical judgment when changes cross domain boundaries — reviewing architecture, APIs, infrastructure, and data work side-by-side, and helping a newly integrated DevSecOps team deliver coherent, secure, operable systems.
+
+Key Responsibilities
+
+Technical Leadership & Code Review
+• Provide hands-on technical leadership across modernization engineering work, including application code, APIs, cloud infrastructure, automation pipelines, and database changes.
+• Review pull requests that affect any layer of the stack; approve or recommend changes based on implementation risk, API design, data impact, security posture, deployment readiness, and architectural alignment.
+• Enforce consistent engineering patterns for APIs, distributed services, cloud deployment, data integration, observability, and secure configuration.
+• Uphold the program's modern engineering and cloud architecture standards, including microservice boundaries, schema governance, and infrastructure-as-code guardrails.
+
+Architecture & Engineering Execution
+• Help engineering teams translate target architecture decisions into working, maintainable code on the approved AWS technology stack.
+• Guide design and implementation of containerized microservices using Python (FastAPI), GraphQL subgraphs (Apollo Federation), and React/TypeScript frontends.
+• Advise on data architecture decisions involving Amazon RDS PostgreSQL, AWS Glue data pipelines, and legacy system integrations following the Strangler Fig migration pattern.
+• Support secure-by-default cloud delivery on Amazon EKS using Terraform, GitHub Actions CI/CD, and AWS-native services (Secrets Manager, CloudWatch, X-Ray, WAF, ALB).
+• Contribute to and review Architecture Decision Records when implementation choices deviate from approved patterns or introduce new technologies.
+
+Cross-Team Coordination & Mentorship
+• Partner with the project stakeholders to identify technical dependencies, blockers, and sequencing issues during backlog refinement, sprint planning, and release coordination.
+• Coordinate with the Enterprise Architect, application development leads, infrastructure and operations engineers, and security personnel when changes require specialized review or have architectural, operational, or compliance implications.
+• Translate architecture and security guidance into practical, day-to-day implementation advice for engineers across the team.
+• Mentor engineers on cloud-native delivery practices, distributed system patterns, secure development, observability, and operational ownership.
+
+Required Skills & Qualifications
+• 7+ years of professional software engineering experience, with at least 2 years in a technical lead, staff engineer, or principal engineer capacity on production cloud systems.
+• Proven ability to reason across the full stack — frontend, backend, API, database, cloud infrastructure, automation, and security — and to evaluate the downstream impact of cross-boundary changes.
+• Demonstrated experience designing, building, or reviewing distributed systems and microservice-style architectures, including API contracts, data ownership boundaries, and inter-service communication patterns.
+• Strong, hands-on proficiency in Python (FastAPI or equivalent framework) and a modern frontend ecosystem (React with TypeScript preferred).
+• Production experience with GraphQL APIs; familiarity with federated GraphQL (Apollo Federation, schema composition, schema governance, breaking-change detection in CI) is strongly preferred.
+• Deep working knowledge of AWS cloud-native services, including EKS/Kubernetes, RDS PostgreSQL, S3, IAM, Secrets Manager, CloudWatch, and VPC networking.
+• Practical experience with Infrastructure as Code (Terraform), containerized delivery (Docker), and CI/CD automation (GitHub Actions or equivalent).
+• Experience integrating modern services with legacy systems (.NET, Oracle, SAP BusinessObjects, or comparable) and executing incremental migrations using patterns such as Strangler Fig.
+• Working knowledge of secure software delivery, including identity federation (OIDC, SAML 2.0, OAuth2), secrets management, RBAC, audit logging, and compliance evidence collection.
+• Strong written and verbal communication; ability to explain technical tradeoffs clearly to engineers, program leadership, and non-technical stakeholders.
+• Collaborative technical leadership style suited to a cross-functional team where influence comes from clarity, judgment, and trust rather than formal hierarchy.
+
+Technical Skills
+
+Cloud Platform: AWS (EKS, RDS PostgreSQL, S3, Glue, IAM, Secrets Manager, CloudWatch, X-Ray, WAF, ALB, Route 53)
+
+Languages: Python (FastAPI), TypeScript/JavaScript; working familiarity with .NET / C# for legacy interop
+
+APIs: GraphQL (Apollo Federation), REST, API gateway design, schema governance and versioning
+
+Frontend: React with TypeScript, component-based design systems
+
+Data: PostgreSQL, AWS Glue ETL, SQL/NoSQL patterns, integration with legacy Oracle and reporting platforms
+
+DevOps Tools: GitHub Actions (preferred), GitLab CI, Jenkins, or equivalent CI/CD platforms
+
+Containers & Orchestration: Docker, Kubernetes (Amazon EKS), Helm
+
+Infrastructure as Code: Terraform (modules, remote state, policy-as-code)
+
+Observability: Amazon CloudWatch, AWS X-Ray, Prometheus, Grafana, ELK stack
+
+Security: OAuth2, OIDC, SAML 2.0, AWS Secrets Manager, IAM, container/image scanning, dependency scanning, SAST/DAST integration in CI
+
+Preferred Qualifications
+• Experience supporting federal modernization or compliance-driven environments (FISMA, NIST 800-53, FedRAMP Moderate/High).
+• Background producing or guiding cATO-related technical evidence (control narratives, scan results, IaC posture, observability artifacts).
+• Hands-on experience with AWS Glue or comparable serverless ETL tooling for governed data integration.
+• Exposure to event-driven architectures and change-data-capture (Kafka, Amazon MSK, Debezium, etc.)
+• Familiarity with Apollo Federation tooling, schema registries, persisted queries, and breaking-change detection workflows.
+• Prior experience working in or alongside cross-functional DevSecOps teams that integrate infrastructure, application development, and security personnel.
+
+Nice to Have
+• AWS certifications (Solutions Architect Professional, DevOps Engineer Professional, or Security Specialty).
+• Certified Kubernetes Administrator (CKA) or comparable orchestration certification.
+• Experience with zero-trust network architectures and federal identity integration (Entra ID, OIDC, SAML 2.0 federation).
+• Exposure to AI/ML-assisted development practices and developer productivity tooling.
+• Experience contributing to Architecture Decision Records and engineering guardrails in regulated environments.
+• Familiarity with NIH or other federal research IT environments and their compliance, identity, and networking baselines.",https://www.linkedin.com/jobs/view/software-engineer-tech-lead-%E2%80%94-cloud-native-modernization-at-stackular-4419026481,2026-05-28T00:00:00.000Z,job title software engineer tech lead cloud native modernization location bethesda md hybrid mostly on site engagement type full time clearance able to obtain public trust clearance upon hire about us at stackular we are more than just a team we are a product development community driven by a shared vision. our values shape who we are what we do and how we interact with our peers and our customers. we re not just seeking any regular engineer we want individuals who identify with our core values and are passionate about software development. role overview stackular is seeking a hands on software engineer tech lead to provide cross stack technical leadership on a multi year cloud native modernization initiative supporting a federal research client within the national institutes of health nih . this role operates as the senior engineering voice on a cross functional team that spans application development cloud infrastructure data integration automation and security. the portfolio under modernization includes roughly twenty legacy applications transitioning from .net oracle and sap businessobjects on vm based hosting to an aws managed microservices based platform delivered through a federated graphql api layer and a react typescript frontend. this position is ideal for engineers who can both write production grade code and exercise sound technical judgment when changes cross domain boundaries reviewing architecture apis infrastructure and data work side by side and helping a newly integrated devsecops team deliver coherent secure operable systems. key responsibilities technical leadership code review provide hands on technical leadership across modernization engineering work including application code apis cloud infrastructure automation pipelines and database changes. review pull requests that affect any layer of the stack approve or recommend changes based on implementation risk api design data impact security posture deployment readiness and architectural alignment. enforce consistent engineering patterns for apis distributed services cloud deployment data integration observability and secure configuration. uphold the program s modern engineering and cloud architecture standards including microservice boundaries schema governance and infrastructure as code guardrails. architecture engineering execution help engineering teams translate target architecture decisions into working maintainable code on the approved aws technology stack. guide design and implementation of containerized microservices using python fastapi graphql subgraphs apollo federation and react typescript frontends. advise on data architecture decisions involving amazon rds postgresql aws glue data pipelines and legacy system integrations following the strangler fig migration pattern. support secure by default cloud delivery on amazon eks using terraform github actions ci cd and aws native services secrets manager cloudwatch x ray waf alb . contribute to and review architecture decision records when implementation choices deviate from approved patterns or introduce new technologies. cross team coordination mentorship partner with the project stakeholders to identify technical dependencies blockers and sequencing issues during backlog refinement sprint planning and release coordination. coordinate with the enterprise architect application development leads infrastructure and operations engineers and security personnel when changes require specialized review or have architectural operational or compliance implications. translate architecture and security guidance into practical day to day implementation advice for engineers across the team. mentor engineers on cloud native delivery practices distributed system patterns secure development observability and operational ownership. required skills qualifications 7+ years of professional software engineering experience with at least 2 years in a technical lead staff engineer or principal engineer capacity on production cloud systems. proven ability to reason across the full stack frontend backend api database cloud infrastructure automation and security and to evaluate the downstream impact of cross boundary changes. demonstrated experience designing building or reviewing distributed systems and microservice style architectures including api contracts data ownership boundaries and inter service communication patterns. strong hands on proficiency in python fastapi or equivalent framework and a modern frontend ecosystem react with typescript preferred . production experience with graphql apis familiarity with federated graphql apollo federation schema composition schema governance breaking change detection in ci is strongly preferred. deep working knowledge of aws cloud native services including eks kubernetes rds postgresql s3 iam secrets manager cloudwatch and vpc networking. practical experience with infrastructure as code terraform containerized delivery docker and ci cd automation github actions or equivalent . experience integrating modern services with legacy systems .net oracle sap businessobjects or comparable and executing incremental migrations using patterns such as strangler fig. working knowledge of secure software delivery including identity federation oidc saml 2.0 oauth2 secrets management rbac audit logging and compliance evidence collection. strong written and verbal communication ability to explain technical tradeoffs clearly to engineers program leadership and non technical stakeholders. collaborative technical leadership style suited to a cross functional team where influence comes from clarity judgment and trust rather than formal hierarchy. technical skills cloud platform aws eks rds postgresql s3 glue iam secrets manager cloudwatch x ray waf alb route 53 languages python fastapi typescript javascript working familiarity with .net c# for legacy interop apis graphql apollo federation rest api gateway design schema governance and versioning frontend react with typescript component based design systems data postgresql aws glue etl sql nosql patterns integration with legacy oracle and reporting platforms devops tools github actions preferred gitlab ci jenkins or equivalent ci cd platforms containers orchestration docker kubernetes amazon eks helm infrastructure as code terraform modules remote state policy as code observability amazon cloudwatch aws x ray prometheus grafana elk stack security oauth2 oidc saml 2.0 aws secrets manager iam container image scanning dependency scanning sast dast integration in ci preferred qualifications experience supporting federal modernization or compliance driven environments fisma nist 800 53 fedramp moderate high . background producing or guiding cato related technical evidence control narratives scan results iac posture observability artifacts . hands on experience with aws glue or comparable serverless etl tooling for governed data integration. exposure to event driven architectures and change data capture kafka amazon msk debezium etc. familiarity with apollo federation tooling schema registries persisted queries and breaking change detection workflows. prior experience working in or alongside cross functional devsecops teams that integrate infrastructure application development and security personnel. nice to have aws certifications solutions architect professional devops engineer professional or security specialty . certified kubernetes administrator cka or comparable orchestration certification. experience with zero trust network architectures and federal identity integration entra id oidc saml 2.0 federation . exposure to ai ml assisted development practices and developer productivity tooling. experience contributing to architecture decision records and engineering guardrails in regulated environments. familiarity with nih or other federal research it environments and their compliance identity and networking baselines.,"['javascript', 'python', 'sql', 'kafka', 'react', 'kubernetes', 'java', 'docker', 'leadership', 'r', 'aws', 'fastapi', 'communication', 'typescript', 'jenkins']",0.53285325
+Senior Software Engineer -Machine Learning and Data Science,CACI,Laurel,US,Full-time,False,"Job Title: Senior Software Engineer -Machine Learning and Data Science
+
+Job Category: Engineering
+
+Time Type: Full time
+
+Minimum Clearance Required to Start: TS/SCI with Polygraph
+
+Employee Type: Regular
+
+Percentage of Travel Required: None
+
+Type of Travel: None
+
+* * *
+
+The Opportunity:
+Join our innovative team as a Senior Software Engineer specializing in Machine Learning and Data Science. You'll have the chance to work on cutting-edge projects, developing and enhancing complex software systems that make a real impact. This role offers an exciting blend of individual contribution and collaborative teamwork, allowing you to leverage your expertise in Python, Docker, and machine learning to drive technological advancements in computer network defense and security management. This position offers an excellent opportunity for a seasoned professional to apply their skills in a dynamic, high-impact environment. If you're passionate about leveraging cutting-edge technologies to solve complex problems in cybersecurity, we want to hear from you!
+
+Responsibilities:
+
+* Design and implement scalable data pipelines, improving efficiency and code correctness
+
+* Develop and enhance ML analytics using Python libraries such as PyTorch, NumPy, Pandas, and Scikit-learn
+
+* Train, test, and curate machine learning models using industry-standard tools and practices
+
+* Implement GitOps for continuous integration and deployment of models using Docker
+
+* Utilize AWS services (EC2, S3, RDS) for application building and deployment
+
+* Integrate model outputs with Computer Network Defense (CND) systems to enhance security capabilities
+
+* Contribute to software design, considering hardware/software tradeoffs and potential use of COTS/GOTS solutions
+
+* Provide comprehensive documentation and reporting on completed tasks
+
+Qualifications:
+Required:
+
+* Active TS/SCI w/ Polygraph
+
+* 14+ years of experience as a Software Engineer in similar programs and contracts
+
+* Bachelor's degree in Computer Science or related field (or equivalent experience)
+
+* Extensive experience with Python programming
+
+* Proficiency in Docker and/or Kubernetes
+
+Desired:
+
+* Experience with AWS machine learning services
+
+* Strong background in data science and machine learning techniques
+
+* Familiarity with computer network defense and security management systems
+
+* Experience with GitOps and CI/CD pipelines
+
+-
+
+What You Can Expect:
+
+A culture of integrity.
+
+At CACI, we place character and innovation at the center of everything we do. As a valued team member, you’ll be part of a high-performing group dedicated to our customer’s missions and driven by a higher purpose – to ensure the safety of our nation.
+
+An environment of trust.
+
+CACI values the unique contributions that every employee brings to our company and our customers - every day. You’ll have the autonomy to take the time you need through a unique flexible time off benefit and have access to robust learning resources to make your ambitions a reality.
+
+A focus on continuous growth.
+
+Together, we will advance our nation's most critical missions, build on our lengthy track record of business success, and find opportunities to break new ground — in your career and in our legacy.
+
+Pay Range:
+
+There are a host of factors that can influence final salary including, but not limited to, geographic location, Federal Government contract labor categories and contract wage rates, relevant prior work experience, specific skills and competencies, education, and certifications. Our employees value the flexibility at CACI that allows them to balance quality work and their personal lives. We offer competitive compensation, benefits and learning and development opportunities. Our broad and competitive mix of benefits options is designed to support and protect employees and their families. At CACI, you will receive comprehensive benefits such as; healthcare, wellness, financial, retirement, family support, continuing education, and time off benefits.
+
+The proposed salary range for this position is:
+
+$131,800 - $290,000
+
+CACI is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, age, national origin, disability, status as a protected veteran, or any other protected characteristic.",https://searchcareers.caci.com/careers/job/1443150758032,,job title senior software engineer machine learning and data science job category engineering time type full time minimum clearance required to start ts sci with polygraph employee type regular percentage of travel required none type of travel none the opportunity join our innovative team as a senior software engineer specializing in machine learning and data science. you ll have the chance to work on cutting edge projects developing and enhancing complex software systems that make a real impact. this role offers an exciting blend of individual contribution and collaborative teamwork allowing you to leverage your expertise in python docker and machine learning to drive technological advancements in computer network defense and security management. this position offers an excellent opportunity for a seasoned professional to apply their skills in a dynamic high impact environment. if you re passionate about leveraging cutting edge technologies to solve complex problems in cybersecurity we want to hear from you responsibilities design and implement scalable data pipelines improving efficiency and code correctness develop and enhance ml analytics using python libraries such as pytorch numpy pandas and scikit learn train test and curate machine learning models using industry standard tools and practices implement gitops for continuous integration and deployment of models using docker utilize aws services ec2 s3 rds for application building and deployment integrate model outputs with computer network defense cnd systems to enhance security capabilities contribute to software design considering hardware software tradeoffs and potential use of cots gots solutions provide comprehensive documentation and reporting on completed tasks qualifications required active ts sci w polygraph 14+ years of experience as a software engineer in similar programs and contracts bachelor s degree in computer science or related field or equivalent experience extensive experience with python programming proficiency in docker and or kubernetes desired experience with aws machine learning services strong background in data science and machine learning techniques familiarity with computer network defense and security management systems experience with gitops and ci cd pipelines what you can expect a culture of integrity. at caci we place character and innovation at the center of everything we do. as a valued team member you ll be part of a high performing group dedicated to our customer s missions and driven by a higher purpose to ensure the safety of our nation. an environment of trust. caci values the unique contributions that every employee brings to our company and our customers every day. you ll have the autonomy to take the time you need through a unique flexible time off benefit and have access to robust learning resources to make your ambitions a reality. a focus on continuous growth. together we will advance our nation s most critical missions build on our lengthy track record of business success and find opportunities to break new ground in your career and in our legacy. pay range there are a host of factors that can influence final salary including but not limited to geographic location federal government contract labor categories and contract wage rates relevant prior work experience specific skills and competencies education and certifications. our employees value the flexibility at caci that allows them to balance quality work and their personal lives. we offer competitive compensation benefits and learning and development opportunities. our broad and competitive mix of benefits options is designed to support and protect employees and their families. at caci you will receive comprehensive benefits such as healthcare wellness financial retirement family support continuing education and time off benefits. the proposed salary range for this position is 131 800 290 000 caci is an equal opportunity employer. all qualified applicants will receive consideration for employment without regard to race color religion sex pregnancy sexual orientation age national origin disability status as a protected veteran or any other protected characteristic.,"['pandas', 'numpy', 'python', 'machine learning', 'kubernetes', 'pytorch', 'docker', 'excel', 'aws', 'scala', 'r']",0.53250104
+Data Scientist Jobs,Kforce Federal Solutions,Washington,US,Full-time,False,"Data Scientist
+
+Hybrid | Washington, DC (1 Day Onsite per Week)
+
+Active Public Trust or Clearance Required
+
+Position Overview
+
+We are seeking a Data Scientist to support a highly visible, customer-facing digital product. This role focuses on leveraging the Databricks platform to work with large, complex datasets to surface insights, identify trends, and inform data-driven decisions. The position is hybrid, requiring one day onsite per week in Washington, DC, and candidates must currently hold an active Public Trust or higher clearance to be considered.
+
+Key Responsibilities
+
+Analyze large-scale datasets within Databricks to identify trends, patterns, anomalies, and relationships that impact product performance and customer behavior
+
+Perform data collection, cleansing, and exploratory analysis to support advanced analytics and modeling efforts
+
+Apply statistical methods, testing, and modeling techniques to validate hypotheses and identify drivers of customer retention and churn
+
+Develop visualizations and analytical summaries that clearly communicate findings to technical and non-technical stakeholders
+
+Use Python and SQL extensively to manipulate data, build analytical pipelines, and support machine learning or predictive analytics initiatives
+
+Partner with product and analytics teams to translate business questions into actionable data insights
+
+Required Qualifications
+
+Strong experience working with big data platforms, preferably Databricks
+
+Advanced proficiency in Python and SQL for data analysis, modeling, and automation
+
+Solid background in statistics, including hypothesis testing and trend analysis
+
+Experience analyzing customer behavior, retention metrics, or churn models
+
+Ability to translate complex data findings into clear, meaningful insights
+
+Active Public Trust or active clearance is required at time of application",https://www.clearancejobs.com/jobs/8871055/data-scientist,,data scientist hybrid washington dc 1 day onsite per week active public trust or clearance required position overview we are seeking a data scientist to support a highly visible customer facing digital product. this role focuses on leveraging the databricks platform to work with large complex datasets to surface insights identify trends and inform data driven decisions. the position is hybrid requiring one day onsite per week in washington dc and candidates must currently hold an active public trust or higher clearance to be considered. key responsibilities analyze large scale datasets within databricks to identify trends patterns anomalies and relationships that impact product performance and customer behavior perform data collection cleansing and exploratory analysis to support advanced analytics and modeling efforts apply statistical methods testing and modeling techniques to validate hypotheses and identify drivers of customer retention and churn develop visualizations and analytical summaries that clearly communicate findings to technical and non technical stakeholders use python and sql extensively to manipulate data build analytical pipelines and support machine learning or predictive analytics initiatives partner with product and analytics teams to translate business questions into actionable data insights required qualifications strong experience working with big data platforms preferably databricks advanced proficiency in python and sql for data analysis modeling and automation solid background in statistics including hypothesis testing and trend analysis experience analyzing customer behavior retention metrics or churn models ability to translate complex data findings into clear meaningful insights active public trust or active clearance is required at time of application,"['machine learning', 'r', 'python', 'sql']",0.53123647
+"Ariba Product Team IT Business Analyst, Staff",Lockheed Martin,,,Full-time,False,"Description:A proactive, high‑performing Ariba, Product Sourcing and Quotation Management IT Business Analyst (ITBA) is needed to drive continuous improvement, and act as the go‑to resource for SAP data analysis and process ownership for these areas. The ideal candidate thrives on problem solving, can teach and lead peers, and consistently delivers quality results.
+
+In light of current internal business pressures, priority consideration will be given to qualified candidates who are currently affiliated with the Enterprise Operations’ EBDT (Enterprise Business & Digital Transformation) organization. #EBDT
+Basic Qualifications:
+1. 5-10 years of Lockheed Martin (LM) Ariba functionality.
+
+2. 5–10 years SAP experience (preferably S/4) with deep knowledge of SAP Ariba, Fiori, S/4 Configuration (emphasis on Business Partner)
+
+3. Hands‑on experience with Exostar and Supplier onboarding
+
+4. Participation in at least one SAP implementation
+
+5. Experience validating or converting data during SAP migrations.
+
+6. Proven ability to collaborate with customers to write functional specifications.
+
+7. Fundamental Excel experience which includes the use of formulas, pivot tables and power queries
+
+8. Familiarity with: Focus Build, Service Central, JIRA.
+
+9. Strong understanding of SAP applications: Ariba, Product Sourcing and Quotation Management.
+Desired Skills:
+10. Monitor Ariba, Product Sourcing and Quotation Management processes to proactively identify and reduce risk.
+
+11. Triage and/or work O&M Incidents and requests
+
+12. Create test data for functional enhancements, workflows, interfaces, and forms.
+
+13. Extract, analyze, and interpret SAP table data to diagnose issues and assess impact.
+
+14. Identify root causes of recurring problems; design and implement corrective actions.
+
+15. Serve as a subject‑matter expert for the Ariba product team and liaise with other product teams.
+
+16. Manage multiple build projects from requirements gathering through implementation, including functional spec writing, developer collaboration, and testing.
+
+17. Learn and utilize project‑management tools (e.g., JIRA, Focus Build, Service Central).
+Clearance Level: None
+Other Important Information You Should Know
+Expression of Interest: By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.
+Ability to Work Remotely: Full-time Remote Telework: The employee selected for this position will work remotely full time at a location other than a Lockheed Martin designated office/job site. Employees may travel to a Lockheed Martin office for periodic meetings.
+Work Schedules: Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.
+Schedule for this Position: 4x10 hour day, 3 days off per week
+Pay Rate: The annual base salary range for this position in most major metropolitan areas in California, Massachusetts, and New York is $109,200 - $189,290. For states not referenced above, the salary range for this position will reflect the candidate’s final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.
+Benefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.
+This position is incentive plan eligible.
+Pay Rate: The annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $95,000 - $167,440. For states not referenced above, the salary range for this position will reflect the candidate’s final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.
+Benefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.
+(Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays. Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays. PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year.
+This position is incentive plan eligible.
+Lockheed Martin is an equal opportunity employer. Qualified candidates will be considered without regard to legally protected characteristics.
+The application window will close in 90 days; applicants are encouraged to apply within 5 - 30 days of the requisition posting date in order to receive optimal consideration.
+At Lockheed Martin, we use our passion for purposeful innovation to help keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work.
+
+With our employees as our priority, we provide diverse career opportunities designed to propel, develop, and boost agility. Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. We place an emphasis on empowering our employees by fostering an inclusive environment built upon integrity and corporate responsibility.
+
+If this sounds like a culture you connect with, you’re invited to apply for this role. Or, if you are unsure whether your experience aligns with the requirements of this position, we encourage you to search on Lockheed Martin Jobs, and apply for roles that align with your qualifications.
+Experience Level: Experienced Professional
+Business Unit: ENTERPRISE BUSINESS SERVICES
+Relocation Available: No
+Career Area: Information Technology
+Type: Full-Time
+Shift: First",https://www.lockheedmartinjobs.com/job/bethesda/ariba-product-team-it-business-analyst-staff/694/95675159120,2026-05-27T00:00:00.000Z,description a proactive high performing ariba product sourcing and quotation management it business analyst itba is needed to drive continuous improvement and act as the go to resource for sap data analysis and process ownership for these areas. the ideal candidate thrives on problem solving can teach and lead peers and consistently delivers quality results. in light of current internal business pressures priority consideration will be given to qualified candidates who are currently affiliated with the enterprise operations ebdt enterprise business digital transformation organization. #ebdt basic qualifications 1. 5 10 years of lockheed martin lm ariba functionality. 2. 5 10 years sap experience preferably s 4 with deep knowledge of sap ariba fiori s 4 configuration emphasis on business partner 3. hands on experience with exostar and supplier onboarding 4. participation in at least one sap implementation 5. experience validating or converting data during sap migrations. 6. proven ability to collaborate with customers to write functional specifications. 7. fundamental excel experience which includes the use of formulas pivot tables and power queries 8. familiarity with focus build service central jira. 9. strong understanding of sap applications ariba product sourcing and quotation management. desired skills 10. monitor ariba product sourcing and quotation management processes to proactively identify and reduce risk. 11. triage and or work o m incidents and requests 12. create test data for functional enhancements workflows interfaces and forms. 13. extract analyze and interpret sap table data to diagnose issues and assess impact. 14. identify root causes of recurring problems design and implement corrective actions. 15. serve as a subject matter expert for the ariba product team and liaise with other product teams. 16. manage multiple build projects from requirements gathering through implementation including functional spec writing developer collaboration and testing. 17. learn and utilize project management tools e.g. jira focus build service central . clearance level none other important information you should know expression of interest by applying to this job you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. should this match be identified you may be contacted for this and future openings. ability to work remotely full time remote telework the employee selected for this position will work remotely full time at a location other than a lockheed martin designated office job site. employees may travel to a lockheed martin office for periodic meetings. work schedules lockheed martin supports a variety of alternate work schedules that provide additional flexibility to our employees. schedules range from standard 40 hours over a five day work week while others may be condensed. these condensed schedules provide employees with additional time away from the office and are in addition to our paid time off benefits. schedule for this position 4x10 hour day 3 days off per week pay rate the annual base salary range for this position in most major metropolitan areas in california massachusetts and new york is 109 200 189 290. for states not referenced above the salary range for this position will reflect the candidate s final work location. please note that the salary information is a general guideline only. lockheed martin considers factors such as but not limited to scope and responsibilities of the position candidate s work experience education training key skills as well as market and business considerations when extending an offer. benefits offered medical dental vision life insurance short term disability long term disability 401 k match flexible spending accounts eap education assistance parental leave paid time off and holidays. this position is incentive plan eligible. pay rate the annual base salary range for this position in california massachusetts and new york excluding most major metropolitan areas colorado hawaii illinois maryland minnesota new jersey vermont washington or washington dc is 95 000 167 440. for states not referenced above the salary range for this position will reflect the candidate s final work location. please note that the salary information is a general guideline only. lockheed martin considers factors such as but not limited to scope and responsibilities of the position candidate s work experience education training key skills as well as market and business considerations when extending an offer. benefits offered medical dental vision life insurance short term disability long term disability 401 k match flexible spending accounts eap education assistance parental leave paid time off and holidays. washington state applicants only non represented full time employees accrue at least 10 hours per month of paid time off pto to be used for incidental absences and other reasons receive at least 90 hours for holidays. represented full time employees accrue 6.67 hours of vacation per month accrue up to 52 hours of sick leave annually receive at least 96 hours for holidays. pto vacation sick leave and holiday hours are prorated based on start date during the calendar year. this position is incentive plan eligible. lockheed martin is an equal opportunity employer. qualified candidates will be considered without regard to legally protected characteristics. the application window will close in 90 days applicants are encouraged to apply within 5 30 days of the requisition posting date in order to receive optimal consideration. at lockheed martin we use our passion for purposeful innovation to help keep people safe and solve the world s most complex challenges. our people are some of the greatest minds in the industry and truly make lockheed martin a great place to work. with our employees as our priority we provide diverse career opportunities designed to propel develop and boost agility. our flexible schedules competitive pay and comprehensive benefits enable our employees to live a healthy fulfilling life at and outside of work. we place an emphasis on empowering our employees by fostering an inclusive environment built upon integrity and corporate responsibility. if this sounds like a culture you connect with you re invited to apply for this role. or if you are unsure whether your experience aligns with the requirements of this position we encourage you to search on lockheed martin jobs and apply for roles that align with your qualifications. experience level experienced professional business unit enterprise business services relocation available no career area information technology type full time shift first,"['excel', 'r', 'problem solving']",0.52821094
